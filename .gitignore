@@ -1,0 +1,15 @@
+# Eclipse
+.metadata/
+bin/
+tmp/
+.settings/
+
+# Java
+*.class
+
+# Maven
+target/
+META-INF/
+!src/main/
+
+/*.iml
